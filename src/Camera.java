@@ -6,7 +6,7 @@
  * @created 04/3/2025
  *
  * @summary Added the camera class file
- * from project 2 template.
+ * from JOGL project template.
  */
 
 import com.jogamp.opengl.GL2;
