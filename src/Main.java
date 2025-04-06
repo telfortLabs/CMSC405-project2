@@ -5,17 +5,17 @@
  *
  * @created 04/3/2025
  *
- * @summary This is project 2 draft.
+ * @summary This class will be used
+ * to launch the app and
+ * start the animation.
  */
-
 
 public class Main {
 
     public static void main(String[] args) {
 
-        ThreeDimensional threeD = new ThreeDimensional();
-
-        threeD.GUI();
+        ThreeDimensional threeD = new ThreeDimensional();                           /* Created an instance of the Three Dimensional class. */
+        threeD.GUI();                                                               /* Launching the app. */
 
     } // end of main method
 
